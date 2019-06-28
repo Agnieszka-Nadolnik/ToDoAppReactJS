@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ToDoAppReactJS/static/css/main.9d9a90b5.chunk.css",
+    "main.js": "/ToDoAppReactJS/static/js/main.cf073c9b.chunk.js",
+    "main.js.map": "/ToDoAppReactJS/static/js/main.cf073c9b.chunk.js.map",
+    "runtime~main.js": "/ToDoAppReactJS/static/js/runtime~main.61c25fe5.js",
+    "runtime~main.js.map": "/ToDoAppReactJS/static/js/runtime~main.61c25fe5.js.map",
+    "static/css/2.fc15b87f.chunk.css": "/ToDoAppReactJS/static/css/2.fc15b87f.chunk.css",
+    "static/js/2.d48430eb.chunk.js": "/ToDoAppReactJS/static/js/2.d48430eb.chunk.js",
+    "static/js/2.d48430eb.chunk.js.map": "/ToDoAppReactJS/static/js/2.d48430eb.chunk.js.map",
+    "index.html": "/ToDoAppReactJS/index.html",
+    "precache-manifest.b056fc933b68afb72d4c0623d966ae7d.js": "/ToDoAppReactJS/precache-manifest.b056fc933b68afb72d4c0623d966ae7d.js",
+    "service-worker.js": "/ToDoAppReactJS/service-worker.js",
+    "static/css/2.fc15b87f.chunk.css.map": "/ToDoAppReactJS/static/css/2.fc15b87f.chunk.css.map",
+    "static/css/main.9d9a90b5.chunk.css.map": "/ToDoAppReactJS/static/css/main.9d9a90b5.chunk.css.map",
+    "static/media/mdb.css": "/ToDoAppReactJS/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/ToDoAppReactJS/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
